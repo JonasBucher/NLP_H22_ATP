@@ -13,3 +13,7 @@ Baseline Modell (TF-IDF) (https://www.analyticsvidhya.com/blog/2021/04/a-guide-t
 - Roberta pretrained                  mlni roberta-large-mnli
 - Roberta base englisch               roberta-base
 
+Datasets
+mnli
+snli
+anli
