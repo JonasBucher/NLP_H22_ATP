@@ -10,7 +10,7 @@ Baseline Modell (TF-IDF) (https://www.analyticsvidhya.com/blog/2021/04/a-guide-t
 10.12.22
 - Roberta multilingual                xlm-roberta-base
 - Roberta base englisch               roberta-base
-
+/n
 - Roberta multilingual pretrained     joeddav/xlm-roberta-large-xnli
 - Roberta pretrained                  mlni roberta-large-mnli
 
