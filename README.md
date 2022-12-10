@@ -8,7 +8,8 @@ Implementierung des bert-base-multilingual-cased  (Jonas)
 Baseline Modell (TF-IDF) (https://www.analyticsvidhya.com/blog/2021/04/a-guide-to-feature-engineering-in-nlp/) (Nick)
 
 10.12.22
-- Roberta multilungual    xlm-roberta-base
-- Roberta pretrained      Mlni roberta-large-mnli
-- Roberta base englisch   roberta-base
+- Roberta multilingual                xlm-roberta-base
+- Roberta multilingual pretrained     joeddav/xlm-roberta-large-xnli
+- Roberta pretrained                  mlni roberta-large-mnli
+- Roberta base englisch               roberta-base
 
